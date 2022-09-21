@@ -31,7 +31,7 @@ Medical facilities can respond quickly to patients' questions about various illn
 Patients can post their questions anytime, anywhere, through their internet-enabled mobile devices and get qualified solutions in real time. They will receive the prompt treatment they require, thanks to digital technology. <br>
  
 5.	Effective internal communications within healthcare institutions<br>
-Communication is essential for the healthcare sector to run smoothly and give patients the necessary treatment. Healthcare facilities rely on digital technology much like the rest of the world, and Healthcare software solutions are required to enable more effective and seamless communication across institutions. <br>
+Communication is essential for the healthcare sector to run smoothly and give patients the necessary treatment. Healthcare facilities rely on digital technology much like the rest of the world, and <a href="https://www.providedigital.com/">Healthcare software solutions</a> are required to enable more effective and seamless communication across institutions. <br>
 These tools enable health care providers to communicate with one another and their patients and improve the quality of their treatments, patient care, medical advice, and everything in between.<br>
  
 The future of healthcare is in a patient-centric and intelligent healthcare system. The main goal of going digital with your healthcare is to minimize the cost of healthcare services, reduce human error, enhance patient outcomes, improve healthcare systems, simplify the work of healthcare providers, and offer each patient exceptional care and service.<br>
