@@ -5,14 +5,7 @@ The emergence of digital healthcare solutions has helped hospitals, clinics, and
 
 Healthcare industries can benefit from digital transformation by developing integrated systems and procedures that help patients and medical staff. It will also allow healthcare providers to deliver the required care and services more effectively and precisely. <br>
 
-Here are some reasons why your healthcare company should go digital:<br>
-
-1.	Centralises Information For Better Management, Storage, And Access<br>
-2.	Allows The Easy Sharing Of Patient Information<br>
-3.	Simplify And Customises Patient Bookings<br>
-4.	Quick Response To Patient Queries<br>
-5.	Effective Internal Communications Within Healthcare Institutions<br>
- 
+Here are some reasons why your healthcare company should go digital:<br> 
 
 1.	Centralises information for better management, storage, and access<br>
 One of the most apparent benefits of using digital healthcare solutions for your industry is the centralization of patient information. Patient records, medical history, progress reports- all are in one place. <br>
